@@ -30,8 +30,3 @@ ul.posts li { list-style: none; }
 .cv address, .cv p { font-size: 1.2em; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
 
-.thumb1 { 
-    background: url(blah.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
-    width: 250px;
-    height: 250px;
-  }
